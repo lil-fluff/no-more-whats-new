@@ -1,0 +1,29 @@
+{
+    "author": "LilFluff",
+    "description": "No more What's new section",
+    "name": "no more whats new",
+	
+    "discord_support": {
+        "inviteCodeExcludingLink": "000000"
+    },
+    "github": {
+        "owner": "lil-fluff",
+        "repo_name": "no more whats new"
+    },
+    "header_image": "https://",
+    "splash_image": "https://",
+    "tags": [
+        "Minimal"
+    ],
+    "version": "1.0.0",
+
+    "Steam-WebKit": "webkit.css",
+	 "Patches": [
+        {
+            "MatchRegexString": "^Steam$",
+            "TargetCss": "steam.css"
+        }
+    ],
+	
+    "UseDefaultPatches": true
+}

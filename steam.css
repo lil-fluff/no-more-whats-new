@@ -1,0 +1,13 @@
+/**
+ * @description Remove the what's new shelf and the stupid steam news button.
+ */
+
+/* Whats new */
+._17uEBe5Ri8TMsnfELvs8-N {
+    display: none !important
+}
+
+/* Steam news */
+._5wILZhsLODVwGfcJ0hKmJ {
+    display: none !important;
+}
